@@ -88,8 +88,22 @@ select {
 .flex>*{
   width:200px;
   flex-grow: 1;
-  border:1px solid hsl(100,80%,50%);
 }
 .child-one{
-  border: 1px solid red;
+  background-color: hsl(190,88%,90%);
+}
+.child-two{
+  background-color: hsl(190,88%,80%);
+}
+.child-three{
+  background-color: hsl(190,88%,70%);
+}
+.child-four{
+  background-color: hsl(190,88%,60%);
+}
+.child-five{
+  background-color: hsl(190,50%,50%);
+}
+.child-six{
+  background-color: hsl(190,88%,40%);
 }
