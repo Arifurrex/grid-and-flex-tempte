@@ -90,6 +90,7 @@ select {
   flex-grow: 1;
   outline: 2px solid red;
 }
+
 .child-one{
   background-color: hsl(190,88%,90%);
 }
@@ -107,4 +108,16 @@ select {
 }
 .child-six{
   background-color: hsl(190,88%,40%);
+}
+section{
+  margin-top: 2rem;
+  padding: 1rem;
+}
+.template{
+  border: 1px solid hsl(190,100%,50%);
+  background: hsl(80,30%,60%);
+}
+.templateTwo-child-one{
+  width: 100px;
+   height: 300px;
 }
