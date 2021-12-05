@@ -85,6 +85,9 @@ select {
     gap:var(--gap,1em);
     flex-wrap: wrap;
 }
+.column{
+  flex-direction:column;
+}
 .flex>*{
   width:200px;
   flex-grow: 1;
@@ -114,10 +117,42 @@ section{
   padding: 1rem;
 }
 .template{
-  border: 1px solid hsl(190,100%,50%);
   background: hsl(80,30%,60%);
 }
 .templateTwo-child-one{
   width: 100px;
    height: 300px;
+}
+.templateTwo-child-two{
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.templateTwo-child-two > *{
+  width: 100%;
+  flex-grow: 1;
+  flex-shrink:1
+}
+.templateTwo-subchildOne{
+  width: 100%;
+  flex-grow: 1;
+  flex-shrink:1
+}
+.subchildOne{
+  background-color: hsl(190,100%,50%);
+}
+.subchildOne--two{
+  flex-basis:30%;
+  flex-grow: 1;
+}
+.sub3-child{
+  background-color:hsl(190,90%,30%);
+}
+
+.subchild2{
+  background-color:rgba(23, 112, 130, 0.363);
+}
+.subchild2-one{
+  flex-basis:20%;
+  flex-grow: 1;
+  background-color:hsl(190,78%,50%);
 }
