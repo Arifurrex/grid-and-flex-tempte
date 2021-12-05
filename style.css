@@ -120,3 +120,19 @@ section{
   width: 100px;
    height: 300px;
 }
+.templateTwo-child-two{
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 2px solid greenyellow;
+}
+.templateTwo-child-two > *{
+  border:2px solid hsl(240, 100%, 50%);
+  width: 100%;
+  flex-grow: 1;
+  flex-shrink:1
+}
+.templateTwo-subchildOne{
+  width: 100%;
+  flex-grow: 1;
+  flex-shrink:1
+}
