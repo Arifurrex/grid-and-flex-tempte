@@ -71,7 +71,14 @@ You can use two properties to make an explicit grid:
 2. grid-template-rows
 3. 
 grid-template-columns lets you define the number of columns. grid-template-rows lets you define the number of rows.
+  ```
+.grid {
+  display: grid; 
+  grid-template-columns: 1fr 1fr 1fr 1fr; 
+  grid-template-rows: 3em 3em 3em;
+}
 
+```
 
 ## Building your project
 
