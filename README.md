@@ -51,13 +51,12 @@
 }
 ```
 Thanks for checking out this front-end coding challenge.
-## The challenge
+## I remember CSS Grid according to four groups of properties:
 
-Your challenge is to build out this testimonials grid section and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-Your users should be able to:
+The explicit grid
+Gaps
+Aligning things
+The implicit grid
 
 - View the optimal layout for the site depending on their device's screen size
 
