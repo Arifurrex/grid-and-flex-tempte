@@ -81,6 +81,15 @@ grid-template-columns lets you define the number of columns. grid-template-rows 
 ```
 
 ## How to remember these properties
+You learned 6 properties so far:
+
+1. grid-template-columns
+2. grid-template-rows
+3. grid-template-areas
+4. grid-column
+5. grid-row
+6. grid-area
+
 
 ## Deploying your project
 
