@@ -58,9 +58,6 @@ Thanks for checking out this front-end coding challenge.
 3. Aligning things
 4. The implicit grid
 
-- View the optimal layout for the site depending on their device's screen size
-
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
 ## Where to find everything
 
