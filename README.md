@@ -53,10 +53,10 @@
 Thanks for checking out this front-end coding challenge.
 ## I remember CSS Grid according to four groups of properties:
 
-The explicit grid
-Gaps
-Aligning things
-The implicit grid
+1.The explicit grid
+2.Gaps
+3.Aligning things
+4.The implicit grid
 
 - View the optimal layout for the site depending on their device's screen size
 
