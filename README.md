@@ -1,7 +1,7 @@
 # flex and grid 
 ## Welcome! 👋
 
-
+https://arifurrex.github.io/grid-and-flex-tempte/
 
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
